@@ -1,0 +1,7 @@
+{
+  "base_currency": "USD",
+  "target_currencies": ["EUR", "PLN", "UAH", "GBP"],
+  "cache_ttl_minutes": 30,
+  "cache_file": "cache.json",
+  "export_dir": "exports"
+}
